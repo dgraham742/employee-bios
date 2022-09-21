@@ -1,0 +1,29 @@
+{
+  "name": "employee-bios",
+  "version": "1.0.0",
+  "description": "Generate bio for employees",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgraham742/employee-bios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgraham742/employee-bios/issues"
+  },
+  "homepage": "https://github.com/dgraham742/employee-bios#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
